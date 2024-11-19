@@ -1,0 +1,2 @@
+Estamos escrevendo no arquivo novo.txt
+x = 10
